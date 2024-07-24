@@ -63,20 +63,23 @@ npm run dev
 ## Deployment
 -------------
 
-The application is deployed on [[https://dummy-jobzee-app.herokuapp.com](https://jobquest-web-app.netlify.app)](https://jobquest-web-app.netlify.app) and can be accessed [here]([[https://dummy-jobzee-app.herokuapp.com](https://jobquest-web-app.netlify.app)](https://jobquest-web-app.netlify.app)).
+The application is deployed on [Netlify](https://jobquest-web-app.netlify.app) and can be accessed [here](https://jobquest-web-app.netlify.app).
 
 ## Screenshots
 -------------
 
 ### Home Page
 
-![Home Page]([https://i.imgur.com/dummy-home-page.png](https://jobquest-web-app.netlify.app))
+You can view the live Home Page [here](https://jobquest-web-app.netlify.app/).
 
-## Usage
------![Screenshot (4)](https://github.com/user-attachments/assets/a4133ef8-bf6e-4d13-a7ad-a4ef1594ea56)
-![Screenshot (3)](https://github.com/user-attachments/assets/5bc52928-50b3-493a-adbe-6b9c4a39fd38)
-![Screenshot (2)](https://github.com/user-attachments/assets/31f03db4-df47-4990-aea8-97c4405fd4e2)
-![Screenshot (1)](https://github.com/user-attachments/assets/db5c326f-5fc0-455c-821c-02581c587cf9)
+### Usage
+
+Below are some screenshots of the application in use:
+
+![Screenshot 1](https://github.com/user-attachments/assets/a4133ef8-bf6e-4d13-a7ad-a4ef1594ea56)
+![Screenshot 2](https://github.com/user-attachments/assets/5bc52928-50b3-493a-adbe-6b9c4a39fd38)
+![Screenshot 3](https://github.com/user-attachments/assets/31f03db4-df47-4990-aea8-97c4405fd4e2)
+![Screenshot 4](https://github.com/user-attachments/assets/db5c326f-5fc0-455c-821c-02581c587cf9)
 
 
 1. Visit `http://localhost:3000` to access the application
