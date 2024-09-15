@@ -168,7 +168,7 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 5. Open a Pull Request
 
 ## License and Collaborator
-[arpit-patha](https://github.com/arpit-pathak]
+[arpit-pathak](https://github.com/arpit-pathak)
 -------
 
 This project is licensed under the MIT License.
